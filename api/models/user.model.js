@@ -16,7 +16,10 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
-   
+    avatar:{
+      type: String,
+      default:"https://img.freepik.com/vecteurs-libre/cercle-bleu-utilisateur-blanc_78370-4707.jpg?semt=ais_hybrid"
+    },
   },
   { timestamps: true }
 );
