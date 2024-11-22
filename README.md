@@ -47,7 +47,7 @@ Avec une interface utilisateur moderne et des fonctionnalités de gestion avanc�
 ---
 
 ## 🎨 **Aperçu**  
-<img src="https://via.placeholder.com/800x400?text=Capture+d'%C3%A9cran+de+NetReact" alt="Aperçu du projet" style="border-radius: 10px;"/>  
+<img src="https://github.com/hib-code/netreact/blob/main/Screenshot_20241122_150256.png" alt="Aperçu du projet" style="border-radius: 10px;"/>  
 
 > **Note** : Capture d’écran du projet en cours de développement.  
 
